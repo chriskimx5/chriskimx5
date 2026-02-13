@@ -1,16 +1,22 @@
-## Hi there 👋
+# Chris Kim
+CS & Math @ UC Berkeley (Dec 2025) • Full-stack Software Engineer • ML Systems
 
-<!--
-**chriskimx5/chriskimx5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build product-ready systems end-to-end: data pipelines, APIs, and ML integrated into real features.  
+Currently focused on: **Stock Forecasting Web App**.
 
-Here are some ideas to get you started:
+## Contact
+- Email: chriskimx55@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chris-kim-6365a0258/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now building
+### Stock Forecasting Web App
+- Next.js (TypeScript) UI + FastAPI backend with Postgres + Redis
+- Ingestion → training → inference (versioned artifacts), Redis-cached low-latency API
+- APScheduler automation, health/ready endpoints, Docker, CI/CD, pytest
+
+## Skills
+- Languages: Python, TypeScript, SQL, Java, C/C++
+- Full-stack: Next.js, React, FastAPI
+- Backend/Data: Postgres, Redis, REST APIs
+- Cloud/Infra: AWS, Docker, Git, CI/CD
+- ML: PyTorch, scikit-learn, pandas, NumPy
