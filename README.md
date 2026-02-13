@@ -8,7 +8,7 @@ Currently focused on: **Stock Forecasting Web App**.
 - Email: chriskimx55@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chris-kim-6365a0258/
 
-## Now building
+## Now Building
 ### Stock Forecasting Web App
 - Next.js (TypeScript) UI + FastAPI backend with Postgres + Redis
 - Ingestion → training → inference (versioned artifacts), Redis-cached low-latency API
